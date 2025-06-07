@@ -1,0 +1,43 @@
+##   NORTE
+
+##Estados todos do bozo menos AMZ e Para
+AMZ = "countries/Amazonas_Manaus.txt"
+PAA = "countries/Para.txt"
+AMA = "countries/Amapa.txt"
+##Estados contra o Luli
+RON = "countries/Rondonia.txt"
+ACR = "countries/Acre.txt"
+PAB = "countries/Para_Bozo.txt"
+AMW = "countries/Amazonas_Wilson.txt"
+AME = "countries/AMEAM.txt"
+##COMUNISTAS
+LCP = "countries/Liga_dos_Camponeses__Pobres.txt"
+##Principais Unificadores
+MOU = "countries/Forcas_de_Reacao_Norte.txt"
+AME = "countries/AMEAM.txt"
+NTP = "countries/Nativo_Ticuna.txt"
+
+## SUL
+
+## RIT = "countries/REAL_Italians.txt" Ň vou te esquecer ;(
+## Estados
+SCA = "countries/Santa_Catarina.txt" #"DI DIREITA" #
+RGS = "countries/Rio_Grande_do_Sul.txt" #"LEGALISTA do centrão" #
+## PATRIOTAS
+PRF = "countries/Policia_Rodoviaria_Federal.txt" #
+TGR = "countries/TIGRE.txt" 
+## COMUNISTAS
+FSC = "countries/Faisca_revolucionaria.txt" #
+MWL = "countries/Moviment_Sem_Terra.txt" #
+## TRAIDORES
+CMS = "countries/Comando_Militar_Sul.txt" #
+## TRAIDOR DA LAVAJATO
+MRG = "countries/Londrina_Moro.txt" #
+## Autismo nivel 1
+SUL = "countries/Sul_eh_Meu_Pais.txt" #
+RTL = "countries/LEGIaO_ROTA_LIVRE.txt" #
+CRB = "countries/Carecas_do_Brasil.txt" #
+
+## NORDESTE
+
+##TRAFICANTE VAGABUNDO
