@@ -1,0 +1,30 @@
+capital = 502
+
+set_convoys = 7
+set_research_slots = 2
+oob = "SCA_2020"
+
+
+set_technology = {
+	## Infantry ##
+	infantry_weapons1 = 1
+	infantry_weapons2 = 1
+	## Engineering ##
+	electronic_mechanical_engineering = 1
+	
+	## Industry ##
+	basic_machine_tools = 1
+	
+	## Doctrines ##
+	fleet_in_being = 1
+	formation_flying = 1
+}
+
+set_politics = {
+	ruling_party = conservative
+	last_election = "2000.1.1"
+	elections_allowed = no
+}
+set_popularities = {
+	conservative = 100
+}

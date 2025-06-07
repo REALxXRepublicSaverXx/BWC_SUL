@@ -1,0 +1,120 @@
+	capital = 924
+
+	oob = "RTL_2020"
+
+	set_research_slots = 2
+	set_convoys = 10
+	set_stability = 0.8
+
+	set_country_flag = shithole_country
+
+	set_technology = {
+		## Infantry ##
+		
+		infantry_weapons1 = 1
+		infantry_weapons2 = 1
+		motorised_infantry = 1
+		infantry_rifle_upgrade = 1
+		support_weapons = 1
+		night_vision = 1
+		body_armor = 1
+		camouflage = 1
+		
+		## Support Companies ##
+		tech_support = 1
+		tech_engineers = 1
+		tech_recon = 1
+		tech_military_police = 1
+		tech_field_hospital = 1
+		
+		## Armor ##
+		main_battle_tank1 = 1
+		main_battle_tank2 = 1
+		main_battle_tank3 = 1
+		light_tank1 = 1
+		mechanised_infantry1 = 1
+		light_mechanized_infantry1 = 1
+		
+		## Artillery ##
+		gw_artillery = 1
+		interwar_antitank = 1
+		interwar_antiair = 1
+		tank_destroyer1 = 1
+		self_propelled_aa1 = 1
+		
+		## Engineering ##
+		#eng_low
+		
+		## Industry ##
+		#ind_low
+		
+		## Doctrines ##
+		
+	}
+	
+	if = {
+		limit = { has_dlc = "By Blood Alone" }
+			set_technology = {
+				aa_lmg = 1
+				aa_cannon_1 = 1
+				aa_hmg = 1
+				engines_1 = 1
+				engines_2 = 1
+				early_bombs = 1
+				guided_bombs = 1
+				aircraft_construction = 1
+				survivability_studies = 1
+				iw_small_airframe = 1
+				basic_small_airframe = 1
+				iw_medium_airframe = 1
+				basic_medium_airframe = 1
+				iw_large_airframe = 1
+			}
+		else = {
+			set_technology = {
+				CAS1 = 1
+				CAS2 = 1
+				fighter1 = 1
+				fighter2 = 1
+				scout_plane1 = 1
+				transport_plane2 = 1
+			}
+		}
+	}
+
+	set_politics = {	
+		ruling_party = market_liberal
+		last_election = "2018.1.1"
+		election_frequency = 48
+		elections_allowed = no
+	}
+
+	set_popularities = {
+		market_liberal = 100
+	}
+
+	add_ideas = {
+		militia_looting
+		total_mobilization
+		lower_trade
+		higher_taxes
+		lower_interest_rates
+		lower_welfare
+		lower_safety
+		high_conscription
+		lower_supervision
+		lower_training
+		low_racial_integration
+		higher_immigration
+		lower_education
+		low_female
+		lower_prison
+		lower_police
+		lower_academic
+		lower_farming
+		lower_poverty
+		low_industry
+		lower_military
+		lower_society
+		empire_of_vice
+	}
