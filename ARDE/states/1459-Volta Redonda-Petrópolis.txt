@@ -1,0 +1,17 @@
+state = {
+	id = 1459
+	name = "STATE_1459" #Volta Redonda-Petrópolis
+	manpower = 1704477
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15233 12 } #Volta Redonda
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = { 15232 15233 15219 15235 15234 15236 15240 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1438
+	name = "STATE_1438" #Caxias do Sul
+	manpower = 1569897
+	state_category = large_town
+
+	history = {
+		owner = PRF
+		add_core_of = PRF
+		victory_points = { 15069 15 } #Caxias do Sul
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15069 15063 15064 15070 15051 15066 15062 15031 15058 15059 }
+}

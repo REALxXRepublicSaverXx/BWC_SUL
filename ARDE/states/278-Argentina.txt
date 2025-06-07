@@ -1,0 +1,17 @@
+state = {
+	id = 278
+	name = "STATE_278" #Buenos Aires
+	manpower = 17523996
+	state_category = large_city
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 14996 17 } #La Plata
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = { 1555 1568 1596 1624 1639 4573 4602 4643 7621 10375 10390 10402 10418 12321 12351 12379 12394 12409 12494 14970 14971 14975 14978 14980 14991 14992 14993 14995 14996 14998 14999 15001 }
+}

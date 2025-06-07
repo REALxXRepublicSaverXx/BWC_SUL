@@ -1,0 +1,17 @@
+state={
+	id = 860
+	name = "STATE_860" #Arica
+	manpower = 874408	
+	state_category = village
+	
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		add_claim_by = BOL
+		victory_points = { 5131 7 } #Arica
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={ 2132 5131 8217 }
+}

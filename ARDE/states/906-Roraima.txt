@@ -1,0 +1,16 @@
+state = {
+	id = 906
+	name = "STATE_906" #Boa Vista
+	manpower = 500305
+	state_category = rural
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 5214 10 } #Boa Vista
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = { 5214 15755 15756 15760 15761 15762 15763 }
+}

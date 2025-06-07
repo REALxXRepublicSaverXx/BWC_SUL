@@ -1,0 +1,17 @@
+state = {
+	id = 1458
+	name = "STATE_1458" #São José dos Campos
+	manpower = 2552610
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15198 17 } #São José dos Campos
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = { 15198 15187 15196 15190 8177 15193 10432 }
+}

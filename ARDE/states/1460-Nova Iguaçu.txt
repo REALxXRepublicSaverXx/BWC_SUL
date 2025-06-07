@@ -1,0 +1,17 @@
+state = {
+	id = 1460
+	name = "STATE_1460" #Nova Iguaçu
+	manpower = 1674488
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15213 17 } #Nova Iguaçu
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15213 15194 }
+}

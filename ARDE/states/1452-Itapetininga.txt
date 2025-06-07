@@ -1,0 +1,17 @@
+state = {
+	id = 1452
+	name = "STATE_1452" #Itapetininga
+	manpower = 606681
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15173 7 } #Itapetininga
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15173 15160 15176 15159 11008 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1465
+	name = "STATE_1465" #Espírito Santo
+	manpower = 4108508
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15307 12 } #Vitória
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15307 15302 15315 15281 15283 15296 15295 15305 15315 8196 15323 }
+}

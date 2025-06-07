@@ -1,0 +1,22 @@
+state = {
+	id = 502
+	name = "STATE_502" #Porto Alegre Metro
+	manpower = 2925136
+	state_category = suburb
+
+	resources = {
+		steel = 33.000
+	}
+
+	history = {
+		owner = FSC
+		add_core_of = FSC
+		victory_points = { 10447 20 } #Porto Alegre
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+		}
+	}
+
+	provinces = { 10447 15045 15046 15048 15049 15050 15053 }
+}

@@ -1,0 +1,22 @@
+state={
+	id = 497
+	name = "STATE_497" #São Luís
+	manpower = 5049097
+	state_category = suburb
+
+	resources = {
+		oil=32.000
+		steel=26.000
+	}
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 12933 20 } #São Luís
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 12913 12933 15636 15650 15653 15663 15677 15679 15681 15686 15701 15705 15712 15714 15717 }
+}

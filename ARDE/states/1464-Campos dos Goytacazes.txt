@@ -1,0 +1,17 @@
+state = {
+	id = 1464
+	name = "STATE_1464" #Campos dos Goytacazes
+	manpower = 2017189
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15261 12 } #Campos dos Goytacazes
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15261 15217 15216 15238 15237 8190 15264 12996 15267 15257 }
+}

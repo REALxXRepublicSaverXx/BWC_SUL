@@ -1,0 +1,17 @@
+state={
+	id = 908
+	name ="STATE_908" #Porto Velho
+	manpower = 861213
+	state_category = village
+	
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15559 12 } #Porto Velho
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 15483 15513 15520 15535 15555 15556 15559 }
+}

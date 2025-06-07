@@ -1,0 +1,17 @@
+state = {
+	id = 493
+	name = "STATE_493" #Bogotá-Cundinamarca
+	manpower = 11277648
+	state_category = metropolis
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		victory_points = { 10747 40 } #Bogotá
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = { 10747 10790 14444 14798  }
+}

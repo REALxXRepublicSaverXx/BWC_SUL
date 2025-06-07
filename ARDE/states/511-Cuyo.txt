@@ -1,0 +1,17 @@
+state={
+	id = 511
+	name = "STATE_511" #Tucumán
+	manpower = 1825185
+	state_category = large_town
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15097 17 } #San Miguel de Tucumán
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 8216 8253 11022 12978 15094 15097 15098 }
+}

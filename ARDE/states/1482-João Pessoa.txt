@@ -1,0 +1,17 @@
+state = {
+	id = 1482
+	name = "STATE_1482" #João Pessoa
+	manpower = 1313717
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 2227 17 } #João Pessoa
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 2227 8224 15603 }
+}

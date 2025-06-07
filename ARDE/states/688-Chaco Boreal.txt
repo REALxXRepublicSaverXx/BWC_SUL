@@ -1,0 +1,17 @@
+state={
+	id = 688
+	name = "STATE_688" #Presidente Hayes
+	manpower = 213083
+	state_category = rural
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		victory_points = { 15137 5 } #Villa Hayes
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 2167 2209 2218 4570 5165 10973 15137 15165 }
+}

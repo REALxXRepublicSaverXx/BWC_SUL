@@ -1,0 +1,17 @@
+state = {
+	id = 1463
+	name = "STATE_1463" #Nova Friburgo
+	manpower = 481197
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15241 7 } #Nova Friburgo
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15241 15224 15250 15242 15256 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1436
+	name = "STATE_1436"
+	manpower = 1194285
+	state_category = town
+
+	history = {
+		owner = CMS
+		add_core_of = CMS
+		victory_points = { 7594 12 } #Santa Maria
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 7594 15054 15044 15040 15042 15047 15052 15061 4589 15060 4575 }
+}

@@ -1,0 +1,28 @@
+state = {
+	id = 305
+	name = "STATE_305" #Guayaquil
+	manpower = 7437315
+	state_category = suburb
+	
+	resources = {
+		oil = 55
+	}
+	
+	history = {
+		owner = ECU
+		add_core_of = ECU
+		victory_points = { 15711 30 } #Guayaquil
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			arms_factory = 1
+			dockyard = 1
+			air_base = 2
+			8252 = { naval_base = 3 }
+		}
+	}
+	
+	provinces = {
+		8047 8252 15711 15730 
+	}
+}

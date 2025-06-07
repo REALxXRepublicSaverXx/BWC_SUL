@@ -1,0 +1,17 @@
+state = {
+	id = 1462
+	name = "STATE_1462" #São Gonçalo
+	manpower = 1760323
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15223 17 } #São Gonçalo
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15223 15214 15215 }
+}

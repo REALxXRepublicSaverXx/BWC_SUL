@@ -1,0 +1,22 @@
+state = {
+	id = 487
+	name = "STATE_487" #Santa Cruz
+	manpower = 3115386
+	state_category = suburb
+	
+	resources = {
+		tungsten = 42
+		oil = 1
+	}
+
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 15350 20 }
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 2160 10924 12902 12916 15300 15316 15343 15350 15356 15358 15375 15384 }
+}

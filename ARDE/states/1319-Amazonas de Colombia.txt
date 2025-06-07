@@ -1,0 +1,17 @@
+state={
+	id = 1319
+	name = "STATE_1319" #Neiva
+	manpower = 4132411
+	state_category = large_suburb
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		victory_points = { 2079 7 } #Neiva
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2079 7991 10846 }
+}

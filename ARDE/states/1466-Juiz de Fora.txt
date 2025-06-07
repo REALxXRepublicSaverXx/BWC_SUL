@@ -1,0 +1,17 @@
+state = {
+	id = 1466
+	name = "STATE_1466" #Juiz de Fora
+	manpower = 3361167
+	state_category = large_town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 7476 15 } #Juiz de Fora
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 5204 7476 12334 15249 15255 15259 15260 15268 15279 15280 }
+}

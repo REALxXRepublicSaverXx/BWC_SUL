@@ -1,0 +1,17 @@
+state = {
+	id = 510
+	name = "STATE_510" #Argentine Mesopotamia
+	manpower = 2064006
+	state_category = town
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15087 10 } #Posadas
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 8187 8238 11007 12964 15043 15056 15073 15082 15087 15089 }
+}

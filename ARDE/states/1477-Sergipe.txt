@@ -1,0 +1,17 @@
+state = {
+	id = 1477
+	name = "STATE_1477" #Sergipe
+	manpower = 2361657
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 8143 17 } #Aracajú
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 8143 15495 15498 15510 15512 15515 }
+}

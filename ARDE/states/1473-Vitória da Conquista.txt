@@ -1,0 +1,17 @@
+state = {
+	id = 1473
+	name = "STATE_1473" #Vitória da Conquista
+	manpower = 3392388
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15433 13 } #Vitória da Conquista
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 10419 11002 12422 15354 15363 15370 15409 15424 15431 15432 15433 15435 15437 15438 15446 }
+}

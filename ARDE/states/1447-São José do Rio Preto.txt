@@ -1,0 +1,17 @@
+state = {
+	id = 1447
+	name = "STATE_1447" #São José do Rio Preto
+	manpower = 4379816
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15290 15 } #São José do Rio Preto
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15290 15288 15284 15297 8189 15271 15258 15231 15247 15231 15210 15204 15209 15269 15293 15277 10994 1583 11003 15220 15251 15226 }
+}

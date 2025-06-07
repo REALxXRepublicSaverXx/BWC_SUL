@@ -1,0 +1,24 @@
+state={
+	id = 500
+	name = "STATE_500" #Rio de Janeiro City
+	manpower = 6211223
+	state_category = metropolis
+
+	resources = {
+		aluminium = 17.000
+		oil = 15.000
+		steel = 22.000
+	}
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 10980 40 } #Rio de Janeiro
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+		}
+	}
+
+	provinces = { 10980 }
+}

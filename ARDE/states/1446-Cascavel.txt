@@ -1,0 +1,17 @@
+state = {
+	id = 1446
+	name = "STATE_1446" #Cascavel
+	manpower = 1746773
+	state_category = large_town
+
+	history = {
+		owner = TGR
+		add_core_of = TGR
+		victory_points = { 15147 12 } #Cascavel
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15147 15117 15134 15140 15149 15138 15133 15130 15153 }
+}

@@ -1,0 +1,22 @@
+state = {
+	id = 503
+	name = "STATE_503" #Florianópolis Metro
+	manpower = 1292069
+	state_category = suburb
+
+	resources = {
+		steel = 47.000
+	}
+
+	history = {
+		owner = RTL
+		add_core_of = RTL
+		victory_points = { 15088 10 } #Florianópolis
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	provinces = { 15081 15088 }
+}

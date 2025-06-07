@@ -1,0 +1,16 @@
+state={
+	id = 902
+	name = "STATE_902"
+	manpower = 138250
+	state_category = wasteland
+
+	history = {
+		owner = GYA
+		add_core_of = GYA
+		buildings = {
+			infrastructure = 0
+		}
+	}
+	
+	provinces = { 12716 15753 15759 15765 15769 15770 15772 15780 }
+}

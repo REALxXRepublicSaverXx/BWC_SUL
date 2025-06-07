@@ -1,0 +1,24 @@
+state = {
+	id = 498
+	name = "STATE_498" #Natal
+	manpower = 1647414
+	state_category = suburb
+
+	resources = {
+		tungsten=5.000
+		oil=10.000
+		steel=10.000
+	}
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15639 17 } #Natal
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	provinces = { 8203 15639 15641 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1440
+	name = "STATE_1440" #Caçador
+	manpower = 534602
+	state_category = village
+
+	history = {
+		owner = MWL
+		add_core_of = MWL
+		victory_points = { 15107 7 } #Caçador
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15107 15096 15106 15112 15110 }
+}

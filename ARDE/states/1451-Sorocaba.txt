@@ -1,0 +1,17 @@
+state = {
+	id = 1451
+	name = "STATE_1451" #Sorocaba
+	manpower = 1780639
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15182 17 } #Sorocaba
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15182 15174 15177 15178 15184 10947 }
+}

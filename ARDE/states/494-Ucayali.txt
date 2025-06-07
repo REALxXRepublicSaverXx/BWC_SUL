@@ -1,0 +1,18 @@
+state={
+	id = 494
+	name = "STATE_494" #Ucayali
+	manpower = 489664
+	state_category = rural
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 2212 12 } #Pucallpa
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 2212 8160 8191 15454 15490 15504 }
+}

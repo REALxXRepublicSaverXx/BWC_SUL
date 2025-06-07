@@ -1,0 +1,17 @@
+state = {
+	id = 1441
+	name = "STATE_1441" #Joinville
+	manpower = 3296250
+	state_category = large_suburb
+
+	history = {
+		owner = SCA
+		add_core_of = SCA
+		victory_points = { 1598 15 } #Joinville
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 1598 15119 15115 15113 4548 15108 4533 15102 15100 15093 15104 }
+}

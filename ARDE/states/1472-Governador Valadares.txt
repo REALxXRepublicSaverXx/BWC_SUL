@@ -1,0 +1,17 @@
+state = {
+	id = 1472
+	name = "STATE_1472" #Governador Valadares
+	manpower = 1950289
+	state_category = large_town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15344 13 } #Governador Valadares
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 7589 15294 15314 15317 15320 15330 15337 15338 15344 15345 }
+}

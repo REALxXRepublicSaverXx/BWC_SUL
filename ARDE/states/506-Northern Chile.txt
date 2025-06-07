@@ -1,0 +1,17 @@
+state={
+	id = 506
+	name = "STATE_506" #La Serena
+	manpower = 742178
+	state_category = town
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 15516 7 } #La Serena
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 5191 8194 15041 15516 }
+}

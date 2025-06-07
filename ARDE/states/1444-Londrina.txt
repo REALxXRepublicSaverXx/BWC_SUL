@@ -1,0 +1,17 @@
+state = {
+	id = 1444
+	name = "STATE_1444" #Londrina
+	manpower = 4644465
+	state_category = suburb
+
+	history = {
+		owner = MRG
+		add_core_of = MRG
+		victory_points = { 15172 15 } #Londrina
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15172 15129 15131 15143 15141 15148 15150 15163 15166 15183 15171 15162 15161 15152 15157 15158 4587 15188 15181 15170 15191 }
+}

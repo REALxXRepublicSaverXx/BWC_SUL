@@ -1,0 +1,17 @@
+state = {
+	id = 1476
+	name = "STATE_1476" #Barreiras
+	manpower = 1542550
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15482 5 } #Barreiras
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 5174 5194 8129 10926 15428 15430 15457 15460 15479 15482 15486 15487 }
+}

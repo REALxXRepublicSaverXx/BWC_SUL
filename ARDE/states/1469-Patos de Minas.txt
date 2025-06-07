@@ -1,0 +1,17 @@
+state = {
+	id = 1469
+	name = "STATE_1469" #Patos de Minas
+	manpower = 819435
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 5178 5 } #Patos de Minas
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2190 5178 12923 15329 15336 15374 15397 15403 }
+}

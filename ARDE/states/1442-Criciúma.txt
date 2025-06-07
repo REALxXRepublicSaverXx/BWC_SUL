@@ -1,0 +1,17 @@
+state = {
+	id = 1442
+	name = "STATE_1442" #Criciúma
+	manpower = 534602
+	state_category = town
+
+	history = {
+		owner = SCA
+		add_core_of = SCA
+		victory_points = { 10405 10 } #Criciúma
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 10405 15067 15075 15077 15080 1529 15084 15085 }
+}

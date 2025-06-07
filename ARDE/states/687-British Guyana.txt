@@ -1,0 +1,19 @@
+state={
+	id = 687
+	name = "STATE_687"
+	manpower = 730250
+	state_category = town
+
+	history={
+		owner = GYA
+		add_core_of = GYA
+		victory_points = { 4982 3 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			4982 = { naval_base = 1 }
+		}
+	}
+	provinces={ 4982 8107 }
+}

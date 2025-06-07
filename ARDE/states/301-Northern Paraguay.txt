@@ -1,0 +1,17 @@
+state={
+	id = 301
+	name = "STATE_301" #Northern Paraguay
+	manpower = 1352273
+	state_category = town
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		victory_points = { 15114 12 } #Villa Hayes
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 11023 12901 15114 15168 }
+}

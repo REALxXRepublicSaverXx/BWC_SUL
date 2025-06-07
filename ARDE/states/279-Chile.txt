@@ -1,0 +1,22 @@
+state = {
+	id = 279
+	name = "STATE_279" #Santiago Metropolitan Region
+	manpower = 7112808
+	state_category = metropolis
+	
+	resources = {
+		oil = 2
+		steel = 4
+	}
+	
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 650 40 } #Santiago 
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = { 650 15005 15006 15007 15009 15010 15011 }
+}

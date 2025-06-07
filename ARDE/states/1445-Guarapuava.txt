@@ -1,0 +1,17 @@
+state = {
+	id = 1445
+	name = "STATE_1445" #Guarapuava
+	manpower = 1045848
+	state_category = town
+
+	history = {
+		owner = MWL
+		add_core_of = MWL
+		victory_points = { 15135 8 } #Guarapuava
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15135 15126 15118 15142 15121 8239 }
+}

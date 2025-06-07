@@ -1,0 +1,21 @@
+state = {
+	id = 489
+	name = "STATE_489" #Orinoco Delta
+	manpower = 2971740
+	state_category = large_town
+	
+	resources = {
+		aluminium = 3
+		oil = 31
+	}
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 10767 10823 10912 15786 15793 15798 15807 15810 15811 15824 15825 15832 }
+}

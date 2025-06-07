@@ -1,0 +1,17 @@
+state = {
+	id = 1449
+	name = "STATE_1449" #Ribeirão Preto
+	manpower = 4257989
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15276 17 } #Ribeirão Preto
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15276 15273 15278 15274 15270 15275 15299 15289 12937 5186 15266 15263 15252 15254 15227 12438 }
+}

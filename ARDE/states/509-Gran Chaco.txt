@@ -1,0 +1,17 @@
+state = {
+	id = 509
+	name = "STATE_509" #Chaco
+	manpower = 1575219
+	state_category = town
+
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15086 7 } #Resistencia
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2106 5213 10986 12922 12943 15086 15095 15101 15109 }
+}

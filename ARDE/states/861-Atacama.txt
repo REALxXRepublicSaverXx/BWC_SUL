@@ -1,0 +1,18 @@
+state={
+	id = 861
+	name = "STATE_861" #Antofagasta
+	manpower = 599335
+	state_category = town
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		add_claim_by = BOL
+		victory_points = { 5146 7 } #Antofagasta
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 5146 5171 8231 12994 15120 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1455
+	name = "STATE_1455" #Francisco Morato
+	manpower = 738910
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15185 7 } #Francisco Morato
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 15185 15189 }
+}

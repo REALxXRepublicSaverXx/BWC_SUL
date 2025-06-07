@@ -1,0 +1,17 @@
+state = {
+	id = 1450
+	name = "STATE_1450" #Campinas-Jundiaí
+	manpower = 4664198
+	state_category = large_city
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15208 20 } #Campinas
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = { 15208 15200 15212 10360 15197 15192 15195 15197 15205 }
+}

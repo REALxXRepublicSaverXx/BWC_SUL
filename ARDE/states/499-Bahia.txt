@@ -1,0 +1,23 @@
+state = {
+	id = 499
+	name = "STATE_499" #Salvador Metro
+	manpower = 4992301
+	state_category = city
+
+	resources = {
+		chromium = 32.000
+		oil = 35.000
+	}
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15462 25 } #Salvador
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+	}
+
+	provinces={ 8197 15458 15462 15466 15467 15471 15472 }
+}

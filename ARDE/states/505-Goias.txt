@@ -1,0 +1,23 @@
+state = {
+	id = 505
+	name = "STATE_505" #Southern Goiás
+	manpower = 5571738
+	state_category = large_suburb
+
+	resources = {
+		aluminium = 11.000
+		steel = 24.000
+	}
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15386 20 } #Goiânia
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+		}
+	}
+
+	provinces={ 5115 8140 15333 15341 15349 15351 15352 15360 15366 15373 15377 15381 15382 15386 15390 15394 15399 15400 15402 15405 15408 }
+}

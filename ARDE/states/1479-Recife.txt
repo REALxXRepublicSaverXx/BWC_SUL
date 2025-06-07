@@ -1,0 +1,17 @@
+state = {
+	id = 1479
+	name = "STATE_1479" #Recife
+	manpower = 4034506
+	state_category = city
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 5168 20 } #Recife
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 5168 15576 15586 }
+}
