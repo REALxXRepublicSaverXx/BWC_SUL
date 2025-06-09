@@ -1,0 +1,17 @@
+state = {
+	id = 1491
+	name = "STATE_1491" #Belém
+	manpower = 4637363
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 12853 20 } #Belém
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 12853 12999 15651 15693 15721 15722 15732 15736 15741 }
+}

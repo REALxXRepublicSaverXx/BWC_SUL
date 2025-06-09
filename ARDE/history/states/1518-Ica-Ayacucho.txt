@@ -1,0 +1,18 @@
+state={
+	id = 1518
+	name = "STATE_1518" #Ica-Ayacucho
+	manpower = 1814580
+	state_category = town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 2225 10 } #Trujillo
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 2225 12953 15425 15447 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1537
+	name = "STATE_1537" #Mendoza
+	manpower = 2843601
+	state_category = suburb
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 8215 7 } #Mendoza
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = { 2149 2215 5152 5219 8215 10935 10992 11021 12970 12998 14969 14973 14979 14982 15012 15019 }
+}

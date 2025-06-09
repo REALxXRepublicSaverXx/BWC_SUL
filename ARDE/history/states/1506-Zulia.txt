@@ -1,0 +1,17 @@
+state = {
+	id = 1506
+	name = "STATE_1506" #Zulia
+	manpower = 4957765
+	state_category = city
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 1944 25 } #Maracaibo
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces = { 1944 5088 12772 15792 15796 15804 15817 15819 15826 15835 15836 15839 15840 15843 15844 15845 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1496
+	name = "STATE_1496" #São Gabriel da Cachoeira
+	manpower = 96616
+	state_category = pastoral
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15745 3 } #São Gabriel da Cachoeira
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 5083 12919 15707 15734 15738 15743 15745 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1489
+	name = "STATE_1489" #Imperatriz
+	manpower = 1727602
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15647 20 } #Imperatriz
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 2150 12947 15526 15565 15591 15599 15614 15628 15629 15647 15652 15662 15667 }
+}

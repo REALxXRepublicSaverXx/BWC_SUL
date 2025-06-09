@@ -1,0 +1,17 @@
+state = {
+	id = 1494
+	name = "STATE_1494" #Parintins-Iticoatira
+	manpower = 573658
+	state_category = rural
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15698 7 } #Parintins
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 5232 12965 15543 15554 15561 15562 15573 15574 15588 15627 15632 15633 15634 15659 15668 15692 15698 15702 15703 15704 }
+}

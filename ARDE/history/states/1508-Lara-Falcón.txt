@@ -1,0 +1,17 @@
+state = {
+	id = 1508
+	name = "STATE_1508" #Lara-Falcón
+	manpower = 3286574
+	state_category = suburb
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 15814 20 } #Barquisimeto
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 1997 15795 15808 15813 15814 15827 15833 15841 15842 15847 }
+}

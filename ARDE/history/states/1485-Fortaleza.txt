@@ -1,0 +1,17 @@
+state = {
+	id = 1485
+	name = "STATE_1485" #Fortaleza
+	manpower = 3903924
+	state_category = City
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 5107 25 } #Fortaleza
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 5107 15673 15684 15688 15696 }
+}

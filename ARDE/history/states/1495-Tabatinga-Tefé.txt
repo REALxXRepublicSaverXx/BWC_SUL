@@ -1,0 +1,17 @@
+state = {
+	id = 1495
+	name = "STATE_1495" #Tabatinga-Tefé
+	manpower = 573658
+	state_category = pastoral
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15676 3 } #Tabatinga-Tefé
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 8185 8254 13083 15598 15601 15617 15622 15669 15671 15676 15678 15685 15689 15697 15700 15706 15723 15724 15727 15731 15733 }
+}

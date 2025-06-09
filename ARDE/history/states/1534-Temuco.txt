@@ -1,0 +1,17 @@
+state = {
+	id = 1534
+	name = "STATE_1534" #Temuco
+	manpower = 1323463
+	state_category = town
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 12959 10 } #Temuco
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 1446 5121 5208 10392 12920 12959 14967 14968 14974 14977 }
+}

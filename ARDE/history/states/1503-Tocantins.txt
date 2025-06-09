@@ -1,0 +1,17 @@
+state = {
+	id = 1503
+	name = "STATE_1503" #Tocantins
+	manpower = 1511460
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15522 12 } #Palmas
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2168 15455 15465 15488 15496 15497 15514 15517 15522 15523 15528 15529 15548 15552 15584 15590 15602 15606 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1522
+	name = "STATE_1522" #Potosí
+	manpower = 2026745
+	state_category = town
+
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 15324 12 } #Arequipa
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 2174 5179 5220 10952 10987 12930 15272 15285 15309 15319 15324 15326 15331 15332 15339 15346 15347 }
+}

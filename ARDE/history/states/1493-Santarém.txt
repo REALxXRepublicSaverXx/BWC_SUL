@@ -1,0 +1,17 @@
+state = {
+	id = 1493
+	name = "STATE_1493" #Santarém
+	manpower = 1333517
+	state_category = village
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15716 12 } #Santarém
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 5008 10874 15578 15623 15637 15645 15654 15710 15716 15718 15720 15725 15729 }
+}

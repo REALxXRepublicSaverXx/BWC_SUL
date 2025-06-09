@@ -1,0 +1,17 @@
+state = {
+	id = 1541
+	name = "STATE_1541" #Entre Ríos
+	manpower = 1242547
+	state_category = town
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15026 10 } #Paraná
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = { 1449 10515 10943 12453 15018 15025 15026 15036 }
+}

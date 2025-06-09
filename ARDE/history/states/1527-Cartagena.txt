@@ -1,0 +1,17 @@
+state = {
+	id = 1527
+	name = "STATE_1527" #Casanare 
+	manpower = 5116804
+	state_category = large_city
+
+	history = {
+		owner = COL
+		add_core_of = COL
+		victory_points = { 14791 17 } #Yopal
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 10864 12790 14459 14460 14462 14791 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1532
+	name = "STATE_1532" #Talca
+	manpower = 1746017
+	state_category = suburb
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 14990 7 } #Talca
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces={ 2109 8229 8251 12984 14984 14987 14988 14989 14990 14994 14997 15004 }
+}

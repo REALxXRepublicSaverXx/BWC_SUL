@@ -1,0 +1,18 @@
+state = {
+	id = 1529
+	name = "STATE_1529" #Puno
+	manpower = 1172697
+	state_category = town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 15371 7 } #Puno
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 2182 10940 15371 }
+}

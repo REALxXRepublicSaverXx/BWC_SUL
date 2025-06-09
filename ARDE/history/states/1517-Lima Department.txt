@@ -1,0 +1,18 @@
+state={
+	id = 1517
+	name = "STATE_1517" #Lima Department
+	manpower = 864853
+	state_category = suburb
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 15456 17 } #Trujillo
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 15456 15461 15481 15493 15494 15499 }
+}

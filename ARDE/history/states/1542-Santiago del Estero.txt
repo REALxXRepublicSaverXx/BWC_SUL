@@ -1,0 +1,17 @@
+state = {
+	id = 1542
+	name = "STATE_1542" #Santiago del Estero
+	manpower = 1054028
+	state_category = town
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 5143 10 } #Santiago del Estero
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = { 2208 5143 8169 8255 15105 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1509
+	name = "STATE_1509" #Central Region
+	manpower = 5741455
+	state_category = city
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 15831 20 } #Valencia
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 7638 10855 15812 15820 15823 15829 15831 15848 }
+}

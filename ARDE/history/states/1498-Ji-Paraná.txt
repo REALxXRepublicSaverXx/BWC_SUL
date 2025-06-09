@@ -1,0 +1,17 @@
+state = {
+	id = 1498
+	name = "STATE_1498" #Ji-Paraná
+	manpower = 896316
+	state_category = rural
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15503 5 } #Ji-Paraná
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 15448 15459 15476 15492 15501 15503 15506 15532 }
+}

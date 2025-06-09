@@ -1,0 +1,18 @@
+state = {
+	id = 1520
+	name = "STATE_1520" #Cusco
+	manpower = 1786359
+	state_category = large_town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 15449 15 } #Cusco
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 5166 13175 15436 15441 15444 15449 15450 15451 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1499
+	name = "STATE_1499" #Juína
+	manpower = 403866
+	state_category = rural
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15477 3 } #Juína
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 2147 8175 15477 15484 15508 }
+}

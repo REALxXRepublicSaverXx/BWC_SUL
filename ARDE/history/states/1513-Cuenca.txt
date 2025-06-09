@@ -1,0 +1,17 @@
+state={
+	id = 1513
+	name = "STATE_1513" #Cuenca
+	manpower = 3203692
+	state_category = town
+	
+	history = {
+		owner = ECU
+		add_core_of = ECU
+		victory_points = { 1979 12 } #Cuenca
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = { 1979 5120 8172 11020 15726 }
+}

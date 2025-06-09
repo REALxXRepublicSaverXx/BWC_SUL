@@ -1,0 +1,17 @@
+state = {
+	id = 1512
+	name = "STATE_1512" #Anzoátegui-Guárico
+	manpower = 2746228
+	state_category = large_town
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 15846 15 } #Barcelona
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2153 7968 8024 8080 10989 15783 15784 15788 15799 15801 15802 15809 15818 15846 }
+}

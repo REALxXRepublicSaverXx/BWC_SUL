@@ -1,0 +1,18 @@
+state={
+	id = 1519
+	name = "STATE_1519" #Arequipa
+	manpower = 1832089
+	state_category = town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 15401 20 } #Arequipa
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 2210 5202 13086 15365 15376 15379 15389 15395 15396 15401 15406 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1539
+	name = "STATE_1539" #Córdoba
+	manpower = 3311280
+	state_category = suburb
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15035 20 } #Córdoba
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = { 5184 8208 10975 10985 12942 15024 15029 15030 15032 15035 15038 }
+}

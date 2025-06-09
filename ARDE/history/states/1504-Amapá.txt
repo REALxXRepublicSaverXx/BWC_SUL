@@ -1,0 +1,17 @@
+state = {
+	id = 1504
+	name = "STATE_1504" #Amapá
+	manpower = 733759
+	state_category = village
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 4980 12 } #Macapá
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 4980 15737 15740 15742 15747 15750 15751 15754 15757 }
+}

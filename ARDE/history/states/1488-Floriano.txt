@@ -1,0 +1,17 @@
+state = {
+	id = 1488
+	name = "STATE_1488" #Floriano
+	manpower = 589460
+	state_category = town
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15612 3 } #Floriano
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 15507 15538 15545 15570 15597 15600 15612 }
+}

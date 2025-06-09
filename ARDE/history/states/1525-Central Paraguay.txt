@@ -1,0 +1,17 @@
+state={
+	id = 1525
+	name = "STATE_1525" #Central Paraguay
+	manpower = 1244610
+	state_category = village
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		victory_points = { 15146 5 } #Concepción
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 15116 15125 15128 15146 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1540
+	name = "STATE_1540" #Santa Fe
+	manpower = 3194537
+	state_category = suburb
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 15028 12 } #Santa Fe
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	
+	provinces = { 2172 5163 7500 7550 13000 15017 15020 15021 15028 }
+}

@@ -1,0 +1,17 @@
+state = {
+	id = 1535
+	name = "STATE_1535" #Puerto Montt
+	manpower = 823204
+	state_category = town
+
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		victory_points = { 14964 7 } #Puerto Montt
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 5118 5151 5169 12954 14964 }
+}

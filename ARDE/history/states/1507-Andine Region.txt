@@ -1,0 +1,17 @@
+state = {
+	id = 1507
+	name = "STATE_1507" #Andine Region
+	manpower = 3334706
+	state_category = suburb
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 15781 12 } #San Cristóbal
+		buildings = {
+			infrastructure = 3
+		}
+	}
+
+	provinces = { 2052 15778 15779 15781 15782 15785 15787 15794 15797 15800 15803 15805 15806 15815 }
+}

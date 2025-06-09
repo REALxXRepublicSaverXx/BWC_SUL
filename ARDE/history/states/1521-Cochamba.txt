@@ -1,0 +1,17 @@
+state = {
+	id = 1521
+	name = "STATE_1521" #Cochabamba
+	manpower = 2483178
+	state_category = large_town
+
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		victory_points = { 15369 17 } #Arequipa
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={ 8157 8211 8240 10938 10982 10996 12973 15342 15357 15367 15368 15369 15404 }
+}

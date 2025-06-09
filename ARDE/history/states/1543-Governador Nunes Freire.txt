@@ -1,0 +1,17 @@
+state = {
+	id = 1543
+	name = "STATE_1542" #Governador Nunes Freire
+	manpower = 211470
+	state_category = rural
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 12913 3 } #Governador Nunes Freire
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 12913 15686 }
+}

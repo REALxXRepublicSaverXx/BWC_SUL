@@ -1,0 +1,17 @@
+state = {
+	id = 1511
+	name = "STATE_1511" #Portuguesa-Cojedes
+	manpower = 1404955
+	state_category = town
+
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		victory_points = { 15790 7 } #Guanare
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 4942 15790 15816 }
+}

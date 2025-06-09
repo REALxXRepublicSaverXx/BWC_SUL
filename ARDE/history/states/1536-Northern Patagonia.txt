@@ -1,0 +1,17 @@
+state = {
+	id = 1536
+	name = "STATE_1536" #Northern Patagonia
+	manpower = 1133141
+	state_category = town
+	
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		victory_points = { 14972 7 } #Neuquén
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	
+	provinces = { 2199 8192 10981 11005 12306 12349 12982 14963 14965 14966 14972 }
+}

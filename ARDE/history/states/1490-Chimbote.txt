@@ -1,0 +1,17 @@
+state = {
+	id = 1490
+	name = "STATE_1490" #Chimbote
+	manpower = 2091051
+	state_category = town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 12983 3 } #Chimbote
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 5190 12983 }
+}

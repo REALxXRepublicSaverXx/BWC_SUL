@@ -1,0 +1,17 @@
+state = {
+	id = 1505
+	name = "STATE_1505" #Dourados
+	manpower = 877128
+	state_category = village
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15243 7 } #Dourados
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 10984 12987 15164 15201 15243 15245 15246 }
+}

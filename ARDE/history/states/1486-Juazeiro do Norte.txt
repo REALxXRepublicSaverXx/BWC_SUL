@@ -1,0 +1,17 @@
+state = {
+	id = 1486
+	name = "STATE_1486" #Juazeiro do Norte
+	manpower = 4891033
+	state_category = suburb
+
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		victory_points = { 15608 10 } #Juazeiro do Norte
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = { 2178 8179 15592 15604 15605 15608 15616 15624 15630 15649 15660 15665 15666 15670 15672 15682 15683 15687 15691 15695 }
+}

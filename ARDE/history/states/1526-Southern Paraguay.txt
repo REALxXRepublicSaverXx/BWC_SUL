@@ -1,0 +1,17 @@
+state={
+	id = 1526
+	name = "STATE_1526" #Southern Paraguay
+	manpower = 1157009
+	state_category = village
+
+	history = {
+		owner = PAR
+		add_core_of = PAR
+		victory_points = { 15090 7 } #Encarnación
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = { 2152 2173 2194 15090 15091 }
+}

@@ -1,0 +1,18 @@
+state={
+	id = 1516
+	name = "STATE_1516" #Trujillo
+	manpower = 1539774
+	state_category = large_town
+
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		victory_points = { 15572 17 } #Trujillo
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PRU
+	}
+
+	provinces={ 15558 15568 15572 15583 15587 15594 }
+}
